@@ -1,6 +1,6 @@
 The project will help improve the user experience of shopping t-shirts on
 e-commerce websites. Initially the customer had to search the product using
-text . It is quite dicult for the customers to express an image which has a
+text . It is quite difficult for the customers to express an image which has a
 very abstract or irregular pattern into a text based query. In this situation,
 an image is the best way to express what the customer needs.
 
